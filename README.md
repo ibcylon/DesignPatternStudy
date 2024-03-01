@@ -2,7 +2,7 @@
 [리팩토링 구루](https://refactoring.guru/) 사이트 디자인 패턴 스터디
 
 ## 일정
-- ~03.03 (일) : Factory, Builder, Abstract
+- ~03.03 (일) : Factory Method, Builder, Abstract Factory
 - 
 
 ## 목표 결과물
