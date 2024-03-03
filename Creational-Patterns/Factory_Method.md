@@ -139,3 +139,10 @@ Base `Dialog`는 다이얼로그를 띄우기 위해, OS에 따라 다른 UI 요
 - Factory Method는 **Tempalte Method**의 특별 버전이다. 동시에 팩토리 메서드는 대규모 템플릿 메서드의 한 스텝의 역할을 수행(serve)할 수 있다.
 
 [팩토리 비교 글](https://refactoring.guru/ko/design-patterns/factory-comparison)
+
+---
+
+### 정의
+- 팩토리로 생성 하는 객체들의 기능이나 함수 추가를 위해 추상 팩토리를 가져 가는 것
+- 핵심은 팩토리 인터페이스를 가져가는 것. 
+- 해당 메소드들은 가지고 있지만, 클래스에 대한 전체적인 기능들은 
