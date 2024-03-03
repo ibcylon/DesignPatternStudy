@@ -3,7 +3,7 @@
 
 ## 일정
 - ~03.03 (일) : Factory Method, Builder, Abstract Factory
-- ~03.10 (일) : Decorator, State / Adaptor, Composite
+- ~03.10 (일) : Decorator, State / Adaptor, Composite / TemplateMethod, Singletone
 
 ## 목표 결과물
 - 개념 정리 문서 (공통.md 파일)
