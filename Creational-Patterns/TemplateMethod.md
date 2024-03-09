@@ -1,5 +1,6 @@
 ## 의도
 부모 클래스에서 알고리즘의 골격을 정의하고, 해당 알고리즘의 구조를 변경하지 않고 자식 클래스에서 알고리즘의 오버라이드​(재정의)​할 수 있도록 하는 행동 디자인 패턴
+
 !(의도)[https://refactoring.guru/images/patterns/content/template-method/template-method-2x.png]
 
 
