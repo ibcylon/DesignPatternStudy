@@ -67,6 +67,27 @@
 
 <img src="https://refactoring.guru/images/patterns/diagrams/decorator/structure-2x.png?id=3cfa1f10417a4ef0c12580bc4a63b80d" alt="구조" title="a" style="zoom:50%;" />
 
+```swift
+class Decorator: BaseDecoratorInterface {
+  let target: Component
+  func execute() {
+    
+
+    target.execute()
+		additionalMethod() 
+  }
+  
+  func additinalMEthod() {
+    
+  }
+}
+
+decorator 2 .target = decorator1
+
+```
+
+
+
 1. 컴포넌트와 데코레이터 공통 인터페이스 작성
 2. 컴포넌트 구현체 작성
 3. 컴포넌트 target을 가진 데코레이터 인터페이스 작성
