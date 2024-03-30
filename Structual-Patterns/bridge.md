@@ -7,7 +7,7 @@
 
 ![브리지](https://github.com/ibcylon/DesignPatternStudy/blob/duhyeuk-4week/Structual-Patterns/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-03-30%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2012.44.33.png?raw=true)
 
-![브리지]()
+![브리지](https://github.com/ibcylon/DesignPatternStudy/blob/duhyeuk-4week/Structual-Patterns/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-03-30%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%208.52.26.png?raw=true)
 
 ## 등장배경
 Circle​(원) 및 Square​(직사각형)​라는 한 쌍의 자식 클래스들이 있는 기하학적 Shape​(모양) 클래스가 있다고 가정해 봅시다. 
