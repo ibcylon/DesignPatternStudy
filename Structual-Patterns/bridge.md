@@ -3,7 +3,7 @@
 브리지는 큰 클래스 또는 밀접하게 관련된 클래스들의 집합을 두 개의 개별 계층구조​(추상화 및 구현)​로 나눈 후 각각 독립적으로 개발할 수 있도록 하는 구조 디자인 패턴
 > 기능 계층, 즉 메서드의 추가 계층과 구현 계층(인터페이스의 구현 계층) 연결하는 방식의 구조 패턴
 
-![브리지]([https://thebook.io/img/080326/044.jpg](https://github.com/ibcylon/DesignPatternStudy/blob/duhyeuk-4week/Structual-Patterns/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-03-30%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2012.42.49.png))
+![브리지](https://github.com/ibcylon/DesignPatternStudy/blob/duhyeuk-4week/Structual-Patterns/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-03-30%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2012.42.49.png?raw=true)
 
 
 ## 등장배경
