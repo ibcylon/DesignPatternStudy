@@ -11,4 +11,7 @@
 
 ## 목표 결과물
 - 개념 정리 문서 (공통.md 파일)
-- 각 언어 (Swift, Python)로 정리된 코드 뭉치 
+- 각 언어 (Swift, Python)로 정리된 코드 뭉치
+
+## 남은 패턴
+- Visitor, Iterator, Mediatotr
