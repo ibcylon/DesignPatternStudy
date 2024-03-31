@@ -6,6 +6,8 @@
 - ~03.10 (일) : Decorator, Strategy / Adaptor, Composite / TemplateMethod, Singletone
 - ~03.17 (일) : State / Proxy / Facade
 - ~03.24 (일) : Flyweight / Bridge / Observer
+- ~03.31 (일) : Flyweight / Bridge / Prototype
+- ~04.07 (일) : Command, Memento / Factory / Chain-of-Responsibility
 
 ## 목표 결과물
 - 개념 정리 문서 (공통.md 파일)
